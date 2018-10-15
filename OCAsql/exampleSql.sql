@@ -1,1 +1,1 @@
-select * from marialacordovesa where name='%maria%';
+select * from marialacordovesa where name='maria';
